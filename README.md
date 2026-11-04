@@ -30,4 +30,4 @@ Make sure you have the following installed:
 git clone https://github.com/rcm-projects/BankUML.git
 ```
 
-2. Compile and Run
+2. Compile and Run "App.Java"
