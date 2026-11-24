@@ -19,8 +19,8 @@ This project demonstrates the use of Object-Oriented Programming (OOP) principle
 | Arrow | Meaning |
 |---|---|
 | **Solid line, hollow triangle** | **Inheritance:**
-| **Solid line, open arrowhead** | **Association:** “holds a reference to.” Points to the referenced class.
-| **Dashed line, open arrowhead** | **Dependency:** “uses.” Often through a method call, parameter, or object creation.
+| **Solid line, open arrowhead** | **Association:** 
+| **Dashed line, open arrowhead** | **Dependency:** 
 
 ## How to Run
 
