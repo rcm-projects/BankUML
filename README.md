@@ -18,9 +18,9 @@ This project demonstrates the use of Object-Oriented Programming (OOP) principle
 
 | Arrow | Meaning |
 |---|---|
-| **Solid line, hollow triangle** | **Inheritance:**
-| **Solid line, open arrowhead** | **Association:** 
-| **Dashed line, open arrowhead** | **Dependency:** 
+| **Solid line, hollow triangle** | **Inheritance**
+| **Solid line, open arrowhead** | **Association** 
+| **Dashed line, open arrowhead** | **Dependency** 
 
 ## How to Run
 
